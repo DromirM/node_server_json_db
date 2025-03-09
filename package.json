@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "Servidor improvisado y pequeño de prueba.",
+  "type": "module",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Elias B",
+  "license": "ISC"
+}

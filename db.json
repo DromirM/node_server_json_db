@@ -1,0 +1,75 @@
+{
+  "profesores": [
+    {
+      "nombre": "John",
+      "apellido": "Doe",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "ReactJS"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ],
+      "id": "bbec"
+    },
+
+    {
+      "id": "6320",
+      "nombre": "Joanne",
+      "apellido": "Joestar",
+      "materias": [
+        {
+          "nombre": "Biologia"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Poco",
+      "apellido": "Loco",
+      "promedio": 7.7,
+      "id": "f62c"
+    },
+    {
+      "nombre": "Jhonny",
+      "apellido": "Joestar",
+      "promedio": 6.5,
+      "id": "4a10"
+    },
+    {
+      "nombre": "Funny",
+      "apellido": "Valentine",
+      "promedio": 8,
+      "id": "40b1"
+    }
+  ],
+  
+  "cursos": [
+    {
+      "nombre": "Curso de NodeJS",
+      "duracion": 8,
+      "dificultad": "Intermedia",
+      "id": "222e"
+    },
+    {
+      "nombre": "Curso de JavaScript",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "a939"
+    },
+    {
+      "nombre": "Curso de ReactJS",
+      "duracion": 9,
+      "dificultad": "Avanzado",
+      "id": "2983"
+    }
+  ]
+}
